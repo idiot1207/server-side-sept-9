@@ -1,0 +1,9 @@
+﻿{
+    "TFSBaseUrl": "http://desktop-498rai4:8080/tfs/DefaultCollection/",
+    "teamNameUrl": "_apis/projects/5686e947-ee27-4250-b29c-1cafad947178/teams?api-version=1.0",
+    "TeamProjectUrl": "ProjectOne/_apis/wit/classificationnodes?$depth=2&api-version=2.0",
+    "WIQLUrl": "http://desktop-498rai4:8080/tfs/DefaultCollection/_apis/wit/wiql?api-version=2.0",
+    "ReleaseUrl": "ProjectOne/_apis/wit/classificationnodes?$depth=2&api-version=2.0",
+    "IterationUrl": "ProjectOne/_apis/work/teamsettings/iterations?api-version=2.0",
+  "CurrentIterationUrl": "ProjectOne/_apis/work/teamsettings/iterations?$timeframe=current&api-version=2.0"
+}
